@@ -1,2 +1,2 @@
 
-Landing pages simples simples feitas com html, css e js para trinar esses linguagens
+Landing pages simples simples feitas com html, css e js para treinar esses linguagens
